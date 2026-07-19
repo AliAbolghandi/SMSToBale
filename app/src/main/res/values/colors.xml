@@ -1,0 +1,18 @@
+<resources>
+    <color name="bg_dark">#0E1220</color>
+    <color name="surface_dark">#1A2036</color>
+    <color name="surface_dark_light">#232A47</color>
+    <color name="surface_border">#2E3757</color>
+
+    <color name="primary_purple">#8B5CF6</color>
+    <color name="primary_blue">#6366F1</color>
+    <color name="accent_turquoise">#2DD4BF</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8892A8</color>
+    <color name="text_hint">#525C78</color>
+
+    <color name="status_success">#2DD4BF</color>
+    <color name="status_error">#FF6584</color>
+    <color name="status_ignored">#7A88A6</color>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.SmsToBale" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryDark">@color/bg_dark</item>
+        <item name="colorAccent">@color/accent_turquoise</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <!-- پس از اضافه کردن فایل فونت کدک به app/src/main/res/font/ این خط را فعال کنید -->
+        <item name="android:fontFamily">@font/koodak_regular</item>
+    </style>
+</resources>
